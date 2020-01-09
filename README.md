@@ -31,7 +31,7 @@ Authors:Xiaolong Wang and Allan Jabri and Alexei A. Efros
 
 Institutions:
 
-Code: [github](https://github.com/xiaolonw/TimeCycle) 580 star
+Code: [github](https://github.com/xiaolonw/TimeCycle) ![star](https://img.shields.io/github/stars/xiaolonw/TimeCycle?style=social)
 
 Paper: [arxiv](https://arxiv.org/abs/1903.07593)
 
