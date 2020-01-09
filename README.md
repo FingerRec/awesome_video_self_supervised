@@ -43,7 +43,7 @@ Authors: Dejing Xu1 Jun Xiao1 Zhou Zhao1 Jian Shao1 Di Xie2 Yueting Zhuang1
 
 Institutions: 1Zhejiang University 2Hikvision Research Institute
 
-Code: [github](https://github.com/xudejing/video-clip-order-prediction)
+Code: [github](https://github.com/xudejing/video-clip-order-prediction) ![star](https://img.shields.io/github/stars/xudejing/video-clip-order-prediction?style=social)
 
 Paper: [openaccess](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf)
 
