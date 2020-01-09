@@ -3,6 +3,15 @@ awesome video-based self-supervised learning methods in recently years
 
 > :sparkles: :important work(5)   :rocket: :interesting work(4) :+1: :good work(3) :camel: :another paper(2) :octocat: :not recommed(1)
 
+
+
+Year | Important work | Interesting work | good work
+------------ | -------------  | ------------- | ------------- 
+2020 | | - |
+2019 |  |  |
+2018 | | |
+
+
 ## 2020
 ### CVPR
 ### ECCV
@@ -13,6 +22,16 @@ awesome video-based self-supervised learning methods in recently years
 ## 2019
 ### CVPR
 #### oral
+
+**1.Learning Correspondence from the Cycle-Consistency of Time** :rocket:
+
+Authors:Xiaolong Wang and Allan Jabri and Alexei A. Efros
+
+Institutions:
+
+Code: [github](https://github.com/xiaolonw/TimeCycle) 580 star
+
+Paper: [arxiv](https://arxiv.org/abs/1903.07593)
 
 #### poster
 
