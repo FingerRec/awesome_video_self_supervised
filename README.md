@@ -7,15 +7,18 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | |  [ClusterFit](#20_cvpr_clusterfit)|
+2020 | |  |[ClusterFit](#20_cvpr_clusterfit)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |
 
 
 ## 2020
 ### CVPR
+
 <h3 id="20_cvpr_clusterfit"></h3>
+
 **1.ClusterFit: Improving Generalization of Visual Representations** :good work:
+
 Authors:Xueting Yan∗ Ishan Misra∗ Abhinav Gupta Deepti Ghadiyaramy Dhruv Mahajany
 
 Institutions: Facebook AI
