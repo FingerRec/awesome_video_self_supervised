@@ -7,7 +7,7 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | |  |[ClusterFit](#20_cvpr_clusterfit) [Evolving Losses](#20_cvpr_evolveloss)
+2020 | |  |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |
 
