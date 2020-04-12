@@ -9,7 +9,7 @@ Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
 2020 | |  |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
-2018 | | |
+2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
 
 ## 2020
@@ -38,6 +38,17 @@ Institutions: Google Research
 Code:
 
 Paper: [arxiv](https://arxiv.org/abs/1906.03248)
+
+**3.Multi-Modal Domain Adaptation for Fine-Grained Action Recognition** :camel:
+
+Authors:Jonathan Munro, Dima Damen
+
+Institutions: University of Bristol
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/abs/2001.09691)
+
 ### ECCV
 ### ICLR
 ### AAAI
@@ -109,5 +120,18 @@ Paper: [arxiv](https://arxiv.org/abs/1811.09795)
 ### Others
 
 ## 2018
+
+<h3 id="18_cvpr_timecontrastive"></h3>
+
+**1.Time-Contrastive Networks: Self-Supervised Learning from Video**  :+1:
+
+Authors: Pierre Sermanet1*@ Corey Lynch1R* Yevgen Chebotar2*, Jasmine Hsu1 Eric Jang1 Stefan Schaal2 Sergey Levine
+
+Institutions: Google Brain, University of Southern California
+
+Code: 
+
+Paper: [arxiv](https://arxiv.org/abs/1704.06888)
+
 ### Others
 
