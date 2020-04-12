@@ -7,7 +7,7 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | |  |[ClusterFit](#20_cvpr_clusterfit)
+2020 | |  |[ClusterFit](#20_cvpr_clusterfit) [Evolving Losses](#20_cvpr_evolveloss)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |
 
@@ -27,6 +27,17 @@ Code:
 
 Paper: [arxiv](https://arxiv.org/abs/1912.03330)
 
+<h3 id="20_cvpr_evolveloss"></h3>
+
+**2.Evolving Losses for Unsupervised Video Representation Learning** :+1:
+
+Authors:AJ Piergiovanni, Anelia Angelova, Michael S. Ryoo
+
+Institutions: Google Research
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/abs/1906.03248)
 ### ECCV
 ### ICLR
 ### AAAI
