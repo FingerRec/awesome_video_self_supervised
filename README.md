@@ -17,7 +17,7 @@ Year | Important work | Interesting work | good work
 
 <h3 id="20_cvpr_clusterfit"></h3>
 
-**1.ClusterFit: Improving Generalization of Visual Representations** :good work:
+**1.ClusterFit: Improving Generalization of Visual Representations** :+1:
 
 Authors:Xueting Yan∗ Ishan Misra∗ Abhinav Gupta Deepti Ghadiyaramy Dhruv Mahajany
 
