@@ -7,7 +7,7 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | | [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss)
+2020 | | [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
@@ -39,7 +39,7 @@ Code:
 
 Paper: [arxiv](https://arxiv.org/abs/1906.03248)
 
-**3.Multi-Modal Domain Adaptation for Fine-Grained Action Recognition** :camel:
+**3.Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (Oral)** :camel:
 
 Authors:Jonathan Munro, Dima Damen
 
@@ -57,9 +57,23 @@ Paper: [arxiv](https://arxiv.org/abs/2001.09691)
  
 Authors: Sagie Benaim, Ariel Ephrat, Oran Lang, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Michal Irani, Tali Dekel
 
+Institutions: Google Brain
+
 Code:
 
 Paper: [arxiv](https://arxiv.org/abs/2004.06130)
+
+<h3 id="20_cvpr_video_playback"></h3>
+
+**5.Video Playback Rate Perception for Self-supervised Spatio-Temporal Representation Learning** :+1:
+
+Authors: Yuan Yao1∗, Chang Liu1∗, Dezhao Luo2, Yu Zhou2 and Qixiang Ye1†
+
+Institutions: University of Chinese Academy of Sciences, Chinese Academy of Sciences
+
+Code:
+
+Paper: [cvf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_Video_Playback_Rate_Perception_for_Self-Supervised_Spatio-Temporal_Representation_Learning_CVPR_2020_paper.pdf)
 
 ### ECCV
 ### ICLR
