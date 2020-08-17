@@ -7,7 +7,7 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | |  |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss)
+2020 | | [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
@@ -48,6 +48,18 @@ Institutions: University of Bristol
 Code:
 
 Paper: [arxiv](https://arxiv.org/abs/2001.09691)
+
+
+
+<h3 id="20_cvpr_speednet"></h3>
+
+**4.SpeedNet: Learning the Speediness in Videos (Oral)** :rocket:
+ 
+Authors: Sagie Benaim, Ariel Ephrat, Oran Lang, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Michal Irani, Tali Dekel
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/abs/2004.06130)
 
 ### ECCV
 ### ICLR
