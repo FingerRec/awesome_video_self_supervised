@@ -7,14 +7,14 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | | [VTDL](#20_arxiv_vtdl), [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
+2020 | | [VTDL](#20_arxiv_vtdl), [DCS](#20_arxiv_dcs), [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
 
 ## 2020
 
-### Arxiv
+### Arxiv (with code or interesting)
 
 <h3 id="20_arxiv_vtdl"></h3>
 
@@ -27,6 +27,43 @@ Institutions: SYSU， HKBU
 Code: [github](https://github.com/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition)
 
 Paper: [arxiv](https://arxiv.org/pdf/2008.02129.pdf)
+
+Summary: Novel Temporal Consistent Augmentation (TCA).
+
+**2.Temporally Coherent Embeddings for Self-Supervised Video Representation Learning**
+
+Author: Joshua Knights, Ben Harwood, Daniel Ward, Anthony Vanderkop, Olivia Mackenzie-Ross, Peyman Moghadam
+
+Institutions: Robotics and Autonomous Systems, Data61 CSIRO, Brisbane, QLD 4069, Australia
+
+Code: [github](https://github.com/csiro-robotics/TCE)
+
+Paper: [arxiv](https://arxiv.org/pdf/2004.02753.pdf)
+
+
+**3. Representation Learning with Video Deep InfoMax **
+
+Author: R Devon Hjelm, Philip Bachman
+
+Institutions: Microsoft Research
+
+Paper: [arxiv](https://arxiv.org/pdf/2007.13278.pdf)
+
+Summary: Introduce Deep InfoMax into video.
+
+<h3 id="20_arxiv_dcs"></h3>
+
+**4. Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases** :rocket: 
+
+Author: Senthil Purushwalkam, Abhinav Gupta
+
+Institutions: Carnegie Mellon University, Facebook AI Research
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/pdf/2007.13916.pdf)
+
+Summary: Explore dataset bias in contrastive learning.
 
 ### CVPR
 
