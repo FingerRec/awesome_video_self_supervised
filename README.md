@@ -77,7 +77,7 @@ Paper: [cvf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_Video_Pl
 
 ### ECCV
 
-**1.Video Representation Learning by Recognizing Temporal Transformations** :+1:
+**1.Video Representation Learning by Recognizing Temporal Transformations** :camel:
 
 Authors: Simon Jenni, Givi Meishvili, and Paolo Favaro
 
