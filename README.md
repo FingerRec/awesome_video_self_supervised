@@ -76,6 +76,17 @@ Code:
 Paper: [cvf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_Video_Playback_Rate_Perception_for_Self-Supervised_Spatio-Temporal_Representation_Learning_CVPR_2020_paper.pdf)
 
 ### ECCV
+
+**1.Video Representation Learning by Recognizing Temporal Transformations** :+1:
+
+Authors: Simon Jenni, Givi Meishvili, and Paolo Favaro
+
+Institutions: University of Bern, Switzerland
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/pdf/2007.10730.pdf)
+
 ### ICLR
 ### AAAI
 ### NIPS
