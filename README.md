@@ -7,12 +7,27 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | | [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
+2020 | | [VTDL](#20_arxiv_vtdl), [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
 
 ## 2020
+
+### Arxiv
+
+<h3 id="20_arxiv_vtdl"></h3>
+
+**1.Self-supervised Temporal Discriminative Learning for Video Representation Learning**  :rocket:
+
+Author: Jinpeng Wang, Yiqi Lin, Andy J. Ma, and Pong C. Yuen
+
+Institutions: SYSU， HKBU
+
+Code: [github](https://github.com/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition)
+
+Paper: [arxiv](https://arxiv.org/pdf/2008.02129.pdf)
+
 ### CVPR
 
 <h3 id="20_cvpr_clusterfit"></h3>
@@ -86,6 +101,16 @@ Institutions: University of Bern, Switzerland
 Code:
 
 Paper: [arxiv](https://arxiv.org/pdf/2007.10730.pdf)
+
+**2.Self-supervised Video Representation Learning by Pace Prediction** :camel:
+
+Authors: Jiangliu Wang, Jianbo Jiao, and Yun-Hui Liu
+
+Institutions:  The Chinese University of Hong Kong, University of Oxford
+
+Code:
+
+Paper: [arxiv](https://arxiv.org/pdf/2008.05861.pdf)
 
 ### ICLR
 ### AAAI
