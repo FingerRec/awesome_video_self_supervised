@@ -24,7 +24,7 @@ Author: Jinpeng Wang, Yiqi Lin, Andy J. Ma, and Pong C. Yuen
 
 Institutions: SYSU， HKBU
 
-Code: [github](https://github.com/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition)
+Code: [github](https://github.com/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition)![star](https://img.shields.io/github/stars/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition?style=social)
 
 Paper: [arxiv](https://arxiv.org/pdf/2008.02129.pdf)
 
@@ -41,7 +41,7 @@ Code: [github](https://github.com/csiro-robotics/TCE)
 Paper: [arxiv](https://arxiv.org/pdf/2004.02753.pdf)
 
 
-**3. Representation Learning with Video Deep InfoMax **
+**3. Representation Learning with Video Deep InfoMax**
 
 Author: R Devon Hjelm, Philip Bachman
 
