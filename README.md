@@ -7,7 +7,7 @@ awesome video-based self-supervised learning methods in recently years
 
 Year | Important work | Interesting work | good work
 ------------ | -------------  | ------------- | ------------- 
-2020 | | [VTDL](#20_arxiv_vtdl), [DCS](#20_arxiv_dcs), [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
+2020 | | [VTDL](#20_arxiv_vtdl), [CoCLR](#20_nips_coclr), [DCS](#20_arxiv_dcs), [SpeedNet](#20_cvpr_speednet) |[ClusterFit](#20_cvpr_clusterfit), [Evolving Losses](#20_cvpr_evolveloss), [Video_Playbck](#20_cvpr_video_playback)
 2019 |  | [Time Cycle](#19_cvpr_timecycle)   |
 2018 | | |[Time Contrastive](18_cvpr_timecontrastive)
 
@@ -152,6 +152,20 @@ Paper: [arxiv](https://arxiv.org/pdf/2008.05861.pdf)
 ### ICLR
 ### AAAI
 ### NIPS
+
+<h3 id="20_nips_coclr"></h3>
+
+**1. Self-supervised Co-Training for Video Representation Learning** :rocket:
+
+Authors: Tengda Han, Weidi Xie, Andrew Zisserman
+
+Institutions: VGG Group, Oxford
+
+Code: [github](https://github.com/TengdaHan/CoCLR)![star](https://img.shields.io/github/stars/TengdaHan/CoCLR?style=social)
+
+
+Paper: [arxiv](https://arxiv.org/abs/2010.09709)
+
 ### Others
 ## 2019
 ### CVPR
